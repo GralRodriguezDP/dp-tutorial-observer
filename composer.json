@@ -1,0 +1,18 @@
+{
+    "name": "giovanni/dp-tutorial-observer",
+    "description": "Project for test the observer design pattern",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "TutorialObserver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giovanni Rodriguez",
+            "email": "hector.ramos@dportenis.com.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
